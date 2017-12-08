@@ -10,7 +10,8 @@ package com.apress.ch02.client;
  * @author barcvilla
  */
 public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello world");
+    public void sayHello()
+    {
+        System.out.print("Hello world"); //cuando se coloca el metodo println el test falla
     }
 }
