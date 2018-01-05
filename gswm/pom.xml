@@ -27,6 +27,7 @@
     </developers>
     <modules>
         <module>helloworld</module>
+        <module>ch05-gswm-plugin</module>
     </modules>
     
     <dependencies>
