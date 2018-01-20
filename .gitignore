@@ -1,1 +1,4 @@
 /gswm/ch05-gswm-plugin/target/
+/gswm-parent/gswm-web/target/
+/gswm-parent/gswm-repository/target/
+/gswm-parent/gswm-service/target/
